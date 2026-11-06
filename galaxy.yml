@@ -6,8 +6,8 @@ description: A collection of roles to manage Automation Orchestrator (AO) with c
 readme: README.md
 authors:
   - Zach LeBlanc
-repository: https://github.com/zjleblanc/zjleblanc.ao_configuration
-issues: https://github.com/zjleblanc/zjleblanc.ao_configuration/issues
+repository: https://github.com/autodotes/zjleblanc.ao_configuration
+issues: https://github.com/autodotes/zjleblanc.ao_configuration/issues
 build_ignore:
   - galaxy.yml.j2
   - "*.tar.gz"

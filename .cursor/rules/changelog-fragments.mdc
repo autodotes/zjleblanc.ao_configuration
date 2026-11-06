@@ -25,7 +25,7 @@ generated `CHANGELOG.rst` are the single source of truth.
 
    ```yaml
    minor_changes:
-     - ao_tools - add support for updating tool descriptions on PATCH (https://github.com/zjleblanc/zjleblanc.ao_configuration/pull/NN).
+     - ao_tools - add support for updating tool descriptions on PATCH (https://github.com/autodotes/zjleblanc.ao_configuration/pull/NN).
    ```
 
    For a new release's headline summary, use `release_summary` instead (a single

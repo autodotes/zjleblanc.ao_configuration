@@ -92,7 +92,7 @@ ao_policies:
 
 ## License
 
-[GPLv3+](https://github.com/zjleblanc/zjleblanc.ao_configuration/blob/main/LICENSE)
+[GPLv3+](https://github.com/autodotes/zjleblanc.ao_configuration/blob/main/LICENSE)
 
 ## Author
 
